@@ -27,7 +27,7 @@ To make a trial, the two images were flashed 10 times each. Images were alternat
 2. Participants will find changes faster and more accurately in shapes than in images. 
 
 ## Methods
-This experiment was made using MATLAB.  
+This experiment was made using MATLAB. More detailed explanations of the experiment can be found in "CB_Exp_Presentation.pdf" and the experiment itself is in the "CB_Exp" folder. 
 
 ## Results 
 <img src = "https://kristentang.github.io/photos/changeblind2.jpg" width = 45%><img src = "https://kristentang.github.io/photos/changeblind22.jpg" width = 45%>
