@@ -27,13 +27,19 @@ To make a trial, the two images were flashed 10 times each. Images were alternat
 2. Participants will find changes faster and more accurately in shapes than in images. 
 
 ## Methods
+This experiment was made using MATLAB.  
 
 ## Results 
 <img src = "https://kristentang.github.io/photos/changeblind2.jpg" width = 45%><img src = "https://kristentang.github.io/photos/changeblind22.jpg" width = 45%>
 
-We determined that it was easier for participants to detect a change in the generated images or the photo. 
+Results showed that it was easier for participants to detect a change in the generated images or the photo. 
+
 
 <img src = "https://kristentang.github.io/photos/changeblind3.jpg" width = 45%><img src = "https://kristentang.github.io/photos/changeblind4.jpg" width = 45%>
+<img src = "https://kristentang.github.io/photos/changeblind5.jpg" width = 45%>
+
+Results showed a greater accuracy in trials with random shapes than images, as well as a faster mean reaction time of hits the closer the changing stimuli was to the final location of the target practice. 
+
 
 
 
