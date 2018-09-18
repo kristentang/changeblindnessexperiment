@@ -7,13 +7,18 @@ June 2017
 
 Change blindness is the perceptual phenomenon of not noticing a change in a visual stimulus. A common example of this phenomenon is when an observer overlooks a major difference in two versions of the same image as it rapidly alternates between the two. In this experiment, we wanted to study how they type of stimuli and it's distance from an observer's gaze would affect the observer's accuracy and response time in finding a changing stimuli. We were interested in knowing if the percieved salience of certain aspects of an image would distract the observer from catching a change in the stimuli. 
 
+<img src = "https://kristentang.github.io/photos/changeblind.gif">
+
 ## Design 
 ### Independent Variables: 
-1. Stimuli Type (Realistic images or random shapes)\
+1. Stimuli Type (Realistic images or random shapes)
 2. Target-gaze proximity (Immediately prior to each trial, participants performed a mouse trace task, which created a controlled gaze location at the start of the trial. Target-gaze proximity was measure in distance from the last location of the mouse trace task to location of the change in the stimuli) 
 
+For realistic image trials, photos were taken from a database of images used to test the change blindness phenomenon. We calculated the size and location of the change, and made a corresponding random shape trial whose changing shape was the same size and located at the same place. 
+<img src = "https://kristentang.github.io/photos/changeblind1.gif">
+
 ### Dependent Variables: 
-1. Accuracy (% hits)\
+1. Accuracy (% hits)
 2. Response Time 
 
 ## Hypotheses: 
