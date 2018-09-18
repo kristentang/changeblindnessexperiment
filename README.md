@@ -29,3 +29,13 @@ To make a trial, the two images were flashed 10 times each. Images were alternat
 ## Methods
 
 ## Results 
+<img src = "https://kristentang.github.io/photos/changeblind2.jpg" width = 50%>
+<img src = "https://kristentang.github.io/photos/changeblind3.jpg" width = 50%>
+
+Determined that it was easier for participants to detect a change in the generated images or the photo. 
+
+<img src = "https://kristentang.github.io/photos/changeblind4.jpg" width = 50%>
+<img src = "https://kristentang.github.io/photos/changeblind5.jpg" width = 50%>
+<img src = "https://kristentang.github.io/photos/changeblind6.jpg"width = 50%>
+
+
