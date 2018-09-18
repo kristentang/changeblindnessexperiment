@@ -15,7 +15,8 @@ Change blindness is the perceptual phenomenon of not noticing a change in a visu
 2. Target-gaze proximity (Immediately prior to each trial, participants performed a mouse trace task, which created a controlled gaze location at the start of the trial. Target-gaze proximity was measure in distance from the last location of the mouse trace task to location of the change in the stimuli) 
 
 For realistic image trials, photos were taken from a database of images used to test the change blindness phenomenon. We calculated the size and location of the change, and made a corresponding random shape trial whose changing shape was the same size and located at the same place. 
-<img src = "https://kristentang.github.io/photos/changeblind1.gif">
+<img src = "https://kristentang.github.io/photos/changeblind1.jpg">
+To make a trial, the two images were flashed 10 times each. Images were alternatingly flashed for 0.4 seconds, with a blank screen flashed for 0.2 seconds in between.
 
 ### Dependent Variables: 
 1. Accuracy (% hits)
