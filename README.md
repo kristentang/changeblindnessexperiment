@@ -16,6 +16,7 @@ Change blindness is the perceptual phenomenon of not noticing a change in a visu
 
 For realistic image trials, photos were taken from a database of images used to test the change blindness phenomenon. We calculated the size and location of the change, and made a corresponding random shape trial whose changing shape was the same size and located at the same place. 
 <img src = "https://kristentang.github.io/photos/changeblind1.jpg">
+
 To make a trial, the two images were flashed 10 times each. Images were alternatingly flashed for 0.4 seconds, with a blank screen flashed for 0.2 seconds in between.
 
 ### Dependent Variables: 
