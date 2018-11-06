@@ -5,7 +5,7 @@ Professor Uri Maoz\
 Final Project with Jenna Leland, Shawn Schwartz, and Yasha Mouradi\
 June 2017
 
-Change blindness is the perceptual phenomenon of not noticing a change in a visual stimulus. A common example of this phenomenon is when an observer overlooks a major difference in two versions of the same image as it rapidly alternates between the two. In this experiment, we wanted to study how they type of stimuli and it's distance from an observer's gaze would affect the observer's accuracy and response time in finding a changing stimuli. We were interested in knowing if the percieved salience of certain aspects of an image would distract the observer from catching a change in the stimuli. 
+Change blindness is the perceptual phenomenon of not noticing a change in a visual stimulus. A common example of this phenomenon is when an observer overlooks a major difference in two versions of the same image as it rapidly alternates between the two. In this experiment, we wanted to study how they type of stimuli and it's distance from an observer's gaze would affect the observer's accuracy and response time in finding a changing stimuli. We were interested in knowing if the perceived salience of certain aspects of an image would distract the observer from catching a change in the stimuli. 
 
 <img src = "https://kristentang.github.io/photos/changeblind.gif">
 
