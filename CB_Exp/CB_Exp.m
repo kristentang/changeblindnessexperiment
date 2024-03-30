@@ -326,12 +326,12 @@ for i=128:1:255
 end
 
 Screen('FillRect', w ,[255 255 255],wRect);
-Final_ins = 'Thank you for your participation!\n\nPlease locate the ".mat" file in this folder:\n"MATLAB > CB_Exp > Results"\nand email it to:\nYashaMouradi@gmail.com\nSubject Line: Psych 20B Exp.\n\n\n\n\n';
+Final_ins = 'Thank you for your participation!\n\nPlease locate the ".mat" file in this folder:\n"MATLAB > CB_Exp > Results"\nand email it to:\n---\nSubject Line: Psych 20B Exp.\n\n\n\n\n';
 DrawFormattedText(w, Final_ins,'center', 'center', [0 0 0]);
 Screen('Flip', w);
 WaitSecs(3);
 Screen('FillRect', w ,[255 255 255],wRect);
-Final_ins = 'Thank you for your participation!\n\nPlease locate the ".mat" file in this folder:\n"MATLAB > CB_Exp > Results"\nand email it to:\nYashaMouradi@gmail.com\nSubject Line: Psych 20B Exp.\n\nPress any key to exit.\n\nthe email address also appears on the next screen\nafter you exit.';
+Final_ins = 'Thank you for your participation!\n\nPlease locate the ".mat" file in this folder:\n"MATLAB > CB_Exp > Results"\nand email it to:\n---\nSubject Line: Psych 20B Exp.\n\nPress any key to exit.\n\nthe email address also appears on the next screen\nafter you exit.';
 DrawFormattedText(w, Final_ins,'center', 'center', [0 0 0]);
 Screen('Flip', w);
 KbStrokeWait;
@@ -349,7 +349,7 @@ disp('Please locate the ".mat" file in this folder:');
 disp('"MATLAB > CB_Exp > Results"');
 disp(' ');
 disp('and email the file to:');
-disp('YashaMouradi@gmail.com');
+disp('---');
 disp(' ');
 
 %%
